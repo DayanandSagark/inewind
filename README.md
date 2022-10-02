@@ -1,1 +1,1 @@
-## This is the new git project\\bbkjcbkcbk
+## This is the new git project for developer 2 merge
